@@ -1,4 +1,4 @@
-# node-keylogger
+# Keylogger Software
 Simple node.js linux only(for now) keylogger using events.
 
 It's working exactly as: https://github.com/Bornholm/node-keyboard
